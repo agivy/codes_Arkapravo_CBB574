@@ -30,6 +30,7 @@ print(f"Using device: {DEVICE}")
 
 # Login to HuggingFace
 HF_TOKEN = "token"  # Replace with your token
+#token: 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
 login(token=HF_TOKEN)
 
 # Load metadata
