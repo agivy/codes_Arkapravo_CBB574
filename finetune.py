@@ -29,7 +29,7 @@ MODEL_PATH = "MahmoodLab/UNI2-h"  # Hugging Face model path
 print(f"Using device: {DEVICE}")
 
 # Login to HuggingFace
-HF_TOKEN = "token"  # Replace with your token
+HF_TOKEN = "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"  # Replace with your token
 #token: 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
 login(token=HF_TOKEN)
 
